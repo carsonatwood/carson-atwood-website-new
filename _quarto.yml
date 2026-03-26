@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "carson-atwood-website-new"
+  title: "Carson Atwood Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
