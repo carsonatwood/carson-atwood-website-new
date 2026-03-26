@@ -1,0 +1,194 @@
+---
+title: "CV"
+format:
+  html:
+    toc: false
+---
+
+<p style="text-align:center;">
+
+Stillwater, OK 74074 \| (918) 680-1669 \| carson.atwood\@okstate.edu
+
+</p>
+
+------------------------------------------------------------------------
+
+## Education
+
+**Oklahoma State University**, Stillwater, OK *Master of Science \| Animal Science* \hfill Expected Graduation: December 2026
+
+Focus: Broiler Chicken Welfare & Behavior Advisor: Dr. Meaghan M. Meyer
+
+**Oklahoma State University**, Stillwater, OK *Bachelor of Science \| Animal Science* \hfill December 2024
+
+------------------------------------------------------------------------
+
+## Experience
+
+**Oklahoma State University**, Stillwater, OK \hfill \*January 2025 – Present
+
+Graduate Research Assistant
+
+**Graduate Research Assistant:**
+
+-   Quantifying social status in growing broiler chickens using Aggressive Rank Index (ARI)
+    -   Analyze video footage to quantify social interactions and dominance behaviors across ranks.
+    -   Calculate ranks to classify individual birds by social status.
+    -   Manage data entry, quality control, and statistical analysis using Excel, SAS, and R Studio.
+    -   Train and supervise 5 undergraduate researchers to ensure inter-observer reliability in behavior observations.
+-   Evaluating social status effects on environmental enrichment use and welfare in growing broiler chickens
+    -   Evaluate the impact of social status on environmental enrichment usage, welfare, performance, and stress physiology in growing broiler chickens.
+    -   Oversee daily management and husbandry throughout the full broiler grow-out period.
+    -   Collect and record performance outcomes weekly.
+    -   Collect and record welfare outcomes weekly.
+    -   Coordinate and perform post-mortem biological sample collection.
+
+**Graduate Teaching Assistant:**
+
+-   Poultry Science
+    -   Co-instruct weekly laboratory sessions focused on applied broiler welfare, production, and management.
+    -   Supervise and coordinate the broiler grow-out project, ensuring proper husbandry, and welfare standards.
+    -   Guide students in accurate data collection and management.
+    -   Deliver guest lectures on core topics related to various poultry production topics.
+-   Applied Animal Nutrition
+    -   Develop complete course materials, including lectures, assessments, and activities to enhance student comprehension and student engagement.
+    -   Assist in evaluating student performance by grading assignments, quizzes, and exams.
+    -   Create and administer course review sessions and maintain regular office hours to support student comprehension of course material.
+-   Introduction to the Animal Science Lab
+    -   Independently instruct 2-3 laboratory sections each week covering foundational concepts in animal science.
+    -   Guide students through comparative production systems across various livestock species.
+    -   Implement interactive, hands-on activities to reinforce lecture material and enhance applied learning.
+-   Capstone for Animal Agriculture
+    -   Grade and evaluate graduating seniors' capstone research literature reviews and oral presentations.
+    -   Coordinate and assist with daily classroom activities, including organizing guest lectures and teaching laboratory sessions.
+
+------------------------------------------------------------------------
+
+**Gawf Farms**, Eufaula, OK \hfill \*October 2021 – December 2024
+
+Manager
+
+-   Oversee daily operations for a mixed-species livestock enterprise managing over 700 goats and cattle.
+-   Design and implement feed, breeding, and herd-health programs to improve productivity and animal well-being.
+-   Manage budgets, marketing, and record keeping ensuring operational efficiency and profitability.
+-   Supervise employees and seasonal staff, ensuring adherence to welfare and biosecurity standards.
+
+------------------------------------------------------------------------
+
+**Oklahoma State University**, Stillwater, OK \hfill \*August 2024 – December 2024
+
+Applied Animal Nutrition Undergraduate Teaching Assistant
+
+-   Supported course coordination and communication between the professor and students.
+-   Graded coursework and provided constructive feedback to enhance learning outcomes.
+
+------------------------------------------------------------------------
+
+**Oklahoma Animal Disease Diagnostic Laboratory**, Stillwater, OK \hfill \*September 2022 – October 2023
+
+Necropsy & Receiving Assistant
+
+-   Received and processed animal submissions for diagnostic testing, ensuring accurate chain-of-custody and sample labeling.
+-   Collaborated with pathologists and veterinarians to support necropsy and sample preparation.
+-   Organized case documentation and maintained biosecure laboratory environments.
+
+------------------------------------------------------------------------
+
+**Cattleman's Congress**, Oklahoma City, OK \hfill \*December 2022 – January 2023
+
+Livestock Intern
+
+-   Assisted with the coordination and facilitation of livestock and exhibitor move-in and setup.
+-   Maintained accurate records of class placings and managed award distribution logistics.
+-   Enforced biosecurity protocols to ensure safe and efficient animal movement throughout the facility.
+
+------------------------------------------------------------------------
+
+**Oklahoma Animal Disease Diagnostic Laboratory**, Stillwater, OK \hfill \*March 2022 – November 2022
+
+Histology Lab Technician
+
+-   Prepared, processed, and embedded tissue samples for histopathological examination.
+-   Assisted in slide preparation and labeling for diagnostic review.
+-   Maintained laboratory organization and quality control procedures for sample integrity.
+
+------------------------------------------------------------------------
+
+## Teaching & Student Mentorship
+
+### Courses
+
+| Course | Role | Year | Semester | No. Students |
+|--------------|--------------|--------------|--------------|-----------------|
+| ANSI 4863: Capstone for Animal Agriculture | Teaching Assistant | 2026 | Spring | 115 |
+| ANSI 1021: Introduction to the Animal Science Lab | Teaching Assistant | 2026 | Spring | 85 |
+| ANSI 4023: Poultry Science | Co-Instructor | 2025 | Fall | 16 |
+| ANSI 1021: Introduction to the Animal Science Lab | Teaching Assistant | 2025 | Fall | 80 |
+| ANSI 3653: Applied Animal Nutrition | Teaching Assistant | 2025 | Fall | 143 |
+| ANSI 3651: Applied Animal Nutrition Lab | Teaching Assistant | 2025 | Spring | 32 |
+
+### Guest Lectures
+
+| Course | Semester | No. Lectures |
+|-------------------|-----------------------|------------------------------|
+| ANSI 3623: Livestock Behavior and Environmental Interaction | Spring 2026 | 1 |
+| ANSI 4023: Poultry Science | Fall 2025 | 2 |
+| ANSI 3653: Applied Animal Nutrition | Spring 2025 | 1 |
+| ANSI 3653: Applied Animal Nutrition Lab | Spring 2025 | 2 |
+
+### Student Mentorship (Teaching)
+
+| Student | Role | Course | Year |
+|---------------------|-----------------|------------------|-----------------|
+| Maria Solis-Arana | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Spring 2026 |
+| Ashlyn Eschberger | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Spring 2026 |
+| Avery Beiergrohslein | Teaching Assistant Mentor | ANSI 4023: Poultry Science | Fall 2025 |
+| Kelsey Wall | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Fall 2025 |
+| Kelsey Pinkerton | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Fall 2025 |
+| Donovan Thomas | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Fall 2025 |
+| Jacqueline Oen | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Fall 2025 |
+| Payton Pohlmeier | Teaching Assistant Mentor | ANSI 3653: Applied Animal Nutrition | Spring 2025 |
+| Callie Roberts | Teaching Assistant Mentor | ANSI 3653: Applied Animal Nutrition | Spring 2025 |
+
+### Student Mentorship (Research)
+
+| Student | Role | Research Topic | Year |
+|---------------|---------------|---------------------------|---------------|
+| Kyra Cole | Undergraduate Research Scholar | Broiler behavior and welfare assessment | Spring 2025 – Present |
+| Hannah West | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
+| Addison Harlow | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
+| Kimberly Fonseca-Torres | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Spring 2026 – Present |
+| Mary Saunders | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Spring 2026 – Present |
+
+------------------------------------------------------------------------
+
+## Abstracts
+
+1.  Atwood, C. D., J. L. Salak-Johnson, and M. M. Meyer. 2026. Quantifying social rank in growing broiler chickens using Aggressive Rank Index. World's Poultry Congress, Toronto, Canada.
+2.  Cole, K. G., C. D. Atwood, J. L. Salak-Johnson, and M. M. Meyer. 2026. The effect of social status on tonic immobility in growing broiler chickens. Oklahoma State University Undergraduate Research Symposium, Stillwater, Oklahoma.
+3.  Atwood, C. D., J. L. Salak-Johnson, and M. M. Meyer. 2026. Social rank influences resource use and finishing growth performance in broilers. Poultry Science Association Annual Meeting, Toronto, Canada.
+
+------------------------------------------------------------------------
+
+## Certifications & Technical Training
+
+-   Institutional Animal Care & Use Committee (IACUC) – Oklahoma State University \hfill January 2025
+-   Working with Poultry in Agricultural Research Settings – Oklahoma State University \hfill January 2025
+-   Working with Cattle in Agricultural Research Settings – Oklahoma State University \hfill January 2025
+-   Undue Foreign Influence: Risks and Mitigations – Oklahoma State University \hfill January 2025
+-   Small Ruminant Artificial Insemination – Bosque Valley Reproduction \hfill June 2021
+-   Cattle Artificial Insemination & Palpation – Reproduction Enterprises Inc. \hfill July 2020
+
+------------------------------------------------------------------------
+
+## Affiliations
+
+-   Oklahoma State Animal and Food Science Graduate Student Association, Member \hfill 2025 – Present
+-   World Poultry Science Association, Member \hfill 2025 – Present
+-   Poultry Science Association, Member \hfill 2025 – Present
+
+------------------------------------------------------------------------
+
+## Engagement & Outreach
+
+-   Judge, Animal Science Division – Oklahoma FFA Northeast Area Speech Contest (2024 & 2025)
