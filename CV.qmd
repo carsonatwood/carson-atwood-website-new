@@ -15,11 +15,21 @@ Stillwater, OK 74074 \| (918) 680-1669 \| carson.atwood\@okstate.edu
 
 ## Education
 
-**Oklahoma State University**, Stillwater, OK *Master of Science \| Animal Science* \hfill Expected Graduation: December 2026
+**Oklahoma State University**, Stillwater, OK
 
-Focus: Broiler Chicken Welfare & Behavior Advisor: Dr. Meaghan M. Meyer
+*Master of Science \| Animal Science*
 
-**Oklahoma State University**, Stillwater, OK *Bachelor of Science \| Animal Science* \hfill December 2024
+Expected Graduation: December 2026
+
+Focus: Broiler Chicken Welfare & Behavior
+
+Advisor: Dr. Meaghan M. Meyer
+
+**Oklahoma State University**, Stillwater, OK
+
+*Bachelor of Science \| Animal Science*
+
+December 2024
 
 ------------------------------------------------------------------------
 
@@ -139,7 +149,7 @@ Histology Lab Technician
 ### Student Mentorship (Teaching)
 
 | Student | Role | Course | Year |
-|--------------------|------------------|------------------|------------------|
+|-------------------|------------------|------------------|------------------|
 | Maria Solis-Arana | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Spring 2026 |
 | Ashlyn Eschberger | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Spring 2026 |
 | Avery Beiergrohslein | Teaching Assistant Mentor | ANSI 4023: Poultry Science | Fall 2025 |
@@ -153,7 +163,7 @@ Histology Lab Technician
 ### Student Mentorship (Research)
 
 | Student | Role | Research Topic | Year |
-|----------------|----------------|------------------------|----------------|
+|-----------------|-----------------|----------------------|-----------------|
 | Kyra Cole | Undergraduate Research Scholar | Broiler behavior and welfare assessment | Spring 2025 – Present |
 | Hannah West | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
 | Addison Harlow | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
