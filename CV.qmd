@@ -9,8 +9,6 @@ format:
 
 Stillwater, OK 74074 \| (918) 680-1669 \| carson.atwood\@okstate.edu
 
-this text
-
 </p>
 
 ------------------------------------------------------------------------
@@ -165,7 +163,7 @@ Histology Lab Technician
 ### Student Mentorship (Research)
 
 | Student | Role | Research Topic | Year |
-|-----------------|-----------------|----------------------|-----------------|
+|-----------------|-----------------|---------------------|-----------------|
 | Kyra Cole | Undergraduate Research Scholar | Broiler behavior and welfare assessment | Spring 2025 – Present |
 | Hannah West | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
 | Addison Harlow | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
