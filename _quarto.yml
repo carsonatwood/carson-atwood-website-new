@@ -9,12 +9,13 @@ website:
         text: Home
       - href: CV.qmd
         text: CV
+      - href: pictures.qmd
+        text: Pictures
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - s
     css: styles.css
     toc: true
 

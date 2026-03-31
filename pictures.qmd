@@ -1,0 +1,11 @@
+---
+title: "Pictures"
+---
+
+![](images/20250619_065119431_iOS-01.jpg){fig-align="center"}
+
+![](images/20250619_065911691_iOS-01.png){fig-align="center"}
+
+![](images/20250620_214713768_iOS.png)
+
+![](images/20250620_000046625_iOS.png){fig-align="center"}

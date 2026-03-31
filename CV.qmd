@@ -129,7 +129,7 @@ Histology Lab Technician
 ### Courses
 
 | Course | Role | Year | Semester | No. Students |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | ANSI 4863: Capstone for Animal Agriculture | Teaching Assistant | 2026 | Spring | 115 |
 | ANSI 1021: Introduction to the Animal Science Lab | Teaching Assistant | 2026 | Spring | 85 |
 | ANSI 4023: Poultry Science | Co-Instructor | 2025 | Fall | 16 |
@@ -140,7 +140,7 @@ Histology Lab Technician
 ### Guest Lectures
 
 | Course | Semester | No. Lectures |
-|-------------------|-----------------------|------------------------------|
+|----|----|----|
 | ANSI 3623: Livestock Behavior and Environmental Interaction | Spring 2026 | 1 |
 | ANSI 4023: Poultry Science | Fall 2025 | 2 |
 | ANSI 3653: Applied Animal Nutrition | Spring 2025 | 1 |
@@ -149,7 +149,7 @@ Histology Lab Technician
 ### Student Mentorship (Teaching)
 
 | Student | Role | Course | Year |
-|-------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Maria Solis-Arana | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Spring 2026 |
 | Ashlyn Eschberger | Teaching Assistant Mentor | ANSI 1021: Introduction to the Animal Science Lab | Spring 2026 |
 | Avery Beiergrohslein | Teaching Assistant Mentor | ANSI 4023: Poultry Science | Fall 2025 |
@@ -163,7 +163,7 @@ Histology Lab Technician
 ### Student Mentorship (Research)
 
 | Student | Role | Research Topic | Year |
-|-----------------|-----------------|---------------------|-----------------|
+|----|----|----|----|
 | Kyra Cole | Undergraduate Research Scholar | Broiler behavior and welfare assessment | Spring 2025 – Present |
 | Hannah West | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
 | Addison Harlow | Undergraduate Research Mentor | Broiler behavior and welfare assessment | Fall 2025 – Present |
