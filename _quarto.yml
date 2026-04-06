@@ -9,13 +9,11 @@ website:
         text: Home
       - href: CV.qmd
         text: CV
-      - href: pictures.qmd
-        text: Pictures
 
 format:
   html:
     theme:
-      - s
+      - darkly
     css: styles.css
     toc: true
 
