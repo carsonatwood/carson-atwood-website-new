@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Carson Atwood Personal Website",
-    "section": "",
-    "text": "My name is Carson Atwood, and I am a graduate research assistant in the Department of Animal and Food Science at Oklahoma State University. I am currently a second-year Master of Science student in animal science, where my work focuses on the behavior and welfare of growing broiler chickens. My research centers around understanding how social rank shapes behavior, resource use, and performance, with the goal of improving both bird welfare and production outcomes."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Carson Atwood CV",
@@ -68,5 +54,19 @@
     "title": "Carson Atwood CV",
     "section": "Engagement & Outreach",
     "text": "Engagement & Outreach\n\nJudge, Animal Science Division – Oklahoma FFA Northeast Area Speech Contest (2024 & 2025)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carson Atwood Personal Website",
+    "section": "",
+    "text": "My name is Carson Atwood, and I am a graduate research assistant in the Department of Animal and Food Science at Oklahoma State University. I am currently a second-year Master of Science student in animal science, where my work focuses on the behavior and welfare of growing broiler chickens. My research centers around understanding how social rank shapes behavior, resource use, and performance, with the goal of improving both bird welfare and production outcomes."
   }
 ]
